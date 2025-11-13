@@ -1,0 +1,21 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    margin-right: 2svw;
+    margin-left: 2svw;
+    margin-top: 2svh;
+    margin-bottom: 2svh;
+}
+
+.first {
+
+}
+.first p{
+    font-size: 1em;
+}
+
+.second p{
+    font-size: 1rem;
+}
